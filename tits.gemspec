@@ -32,4 +32,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "minitest", "~> 5.0"
 
   spec.post_install_message = "STOP being passive about gender harrasment"
+  spec.post_install_message = "“Culture does not make people. People make culture. If it is true that the full humanity of women is not our culture, then we can and must make it our culture.” 
+  ― Chimamanda Ngozi Adichie, We Should All Be Feminists"
 end
