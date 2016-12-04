@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["zotherstupidguy"]
   spec.email         = ["zotherstupidguy@gmail.com"]
 
-  spec.summary       = %q{tits is a placeholder for my next big idea when it comes :)}
-  spec.description   = %q{tits is gonna be great!}
-  spec.homepage      = "https://tits-rb.com"
+  spec.summary       = %q{Tits is an art expermient that literally `puts` the message out aganist gender harrasment aganist women.}
+  spec.description   = %q{Tits is an art expermient that literally `puts` the message out aganist gender harrasment aganist women.}
+  spec.homepage      = "https://github.com/zotherstupidguy/tits"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
@@ -30,4 +30,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "bundler", "~> 1.12"
   spec.add_development_dependency "rake", "~> 10.0"
   spec.add_development_dependency "minitest", "~> 5.0"
+
+  spec.post_install_message = "STOP being passive about gender harrasment"
 end
