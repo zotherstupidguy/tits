@@ -1,6 +1,6 @@
 # Tits
 
-Tits is an art expermient that literally `puts` the message out aganist gender harrasment aganist women.
+Tits is an art expermient that literally `puts` the message out aganist gender harrasment.
 
 ## Contributing
 
