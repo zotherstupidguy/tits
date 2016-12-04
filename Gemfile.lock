@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    tits (0.1.0)
+    tits (1.0.0)
 
 GEM
   remote: https://rubygems.org/
