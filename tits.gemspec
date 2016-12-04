@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["zotherstupidguy"]
   spec.email         = ["zotherstupidguy@gmail.com"]
 
-  spec.summary       = %q{Tits is an art expermient that literally `puts` the message out aganist gender harrasment aganist women.}
-  spec.description   = %q{Tits is an art expermient that literally `puts` the message out aganist gender harrasment aganist women.}
+  spec.summary       = %q{Tits is an art expermient that literally `puts` the message out aganist gender harrasment.}
+  spec.description   = %q{Tits is an art expermient that literally `puts` the message out aganist gender harrasment.}
   spec.homepage      = "https://github.com/zotherstupidguy/tits"
   spec.license       = "MIT"
 
